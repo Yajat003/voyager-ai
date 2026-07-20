@@ -1,2 +1,6 @@
 .env
 venv_conda_taa/
+.vscode/
+__pycache__/
+*.py[cod]
+*$py.class
